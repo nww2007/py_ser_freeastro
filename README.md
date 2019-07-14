@@ -1,2 +1,4 @@
-# py_ser_freeastro
-The package for working with freeastro SER files.
+Description
+===========
+
+create/manipulate SER astro images
